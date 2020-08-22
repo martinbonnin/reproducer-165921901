@@ -1,6 +1,7 @@
 include(":jvmLib")
 include(":mppLib")
-
+// Comment this module to make autocomplete work again
+include(":androidLib")
 
 pluginManagement {
   repositories {
